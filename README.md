@@ -1,4 +1,4 @@
-# haskell_guessing_game
+# haskellGuessingGame
 
 The Guessing Game is a console game made in Haskell.
 The computer is thinking in a number from 1 to 100. Can you guess it?
